@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh685&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh685" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritesh685" alt="ritesh685" /></a> </p>
-
 - 🔭 I’m currently working on [Jeevan Pramaan](https://jeevanpramaan.gov.in/)
 
 - 🌱 I’m currently learning **Microsoft Azure,Flutter**
