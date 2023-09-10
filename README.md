@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Microsoft Azure,Flutter**
 
-- 👯 I’m looking to collaborate on **I'm looking to collaborate on innovative .NET projects**
+- 👯 I’m looking to collaborate on **innovative .NET projects**
 
 - 💬 Ask me about **.Net,MVC,EntityFrameWork,DI,SQL,WinForm,Flutter**
 
